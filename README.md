@@ -6,6 +6,6 @@
 *butters
 *kenny
 
-![](cartman.png)
+![pic](cartman.png)
 
 [college](https://www.mohawkcollege.ca/)
